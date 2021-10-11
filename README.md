@@ -1,2 +1,2 @@
-# ticketing-app
-Ticketing Application
+# ticketing-website
+Ticketing Online Application
